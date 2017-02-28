@@ -1,3 +1,4 @@
-language: JavaScript
-rvm:
- - 1.8.5
+language: node_js
+node_js:
+  - "iojs"
+  - "6"
